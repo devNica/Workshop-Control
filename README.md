@@ -7,5 +7,6 @@ It is a workshop control platform, it includes the following modules:
 - Customer management
 
 ## Desarrolladores
-[Cesar](https://github.com/cesart050892)
-[Alejandro](https://github.com/devNica)
+[Cesar Augusto Tapia](https://github.com/cesart050892)
+
+[Álvaro Alejandro González](https://github.com/devNica)
