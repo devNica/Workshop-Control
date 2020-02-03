@@ -34,12 +34,12 @@ class SideBar extends Component {
                                     <p>Dashboard <i className="right fas fa-angle-left"></i></p>
                                 </a>
                                 <ul className="nav nav-treeview">
-                                    {/* <li class="nav-item">
-                                        <a href="./index.html" class="nav-link active">
-                                            <i class="far fa-circle nav-icon"></i>
-                                            <p>Dashboard v1</p>
+                                    <li className="nav-item">
+                                        <a href="/dashboard" className="nav-link active">
+                                            {/* <i class="far fa-circle nav-icon"></i> */}
+                                            <p>Dashboard</p>
                                         </a>
-                                    </li>
+                                    </li> {/*
                                     <li class="nav-item">
                                         <a href="./index2.html" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
